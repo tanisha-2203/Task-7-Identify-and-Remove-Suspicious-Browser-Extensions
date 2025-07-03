@@ -24,4 +24,3 @@ Malicious extensions can track data, inject ads, and slow down performance.
 4. Browser Performance Issues: Malicious extensions can consume excessive system space, leading to slow browser performance, crashes, or unresponsive behavior.
 5. Unauthorized Access:Some extensions request excessive permissions that allow them to access all data on websites visited by the user. This can lead to unauthorized access to sensitive information and compromise user privacy.
 6. Phishing Attacks: Malicious extensions can create fake login pages that resemble legitimate sites, tricking users into entering their credentials.
-7. 
